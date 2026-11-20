@@ -23,4 +23,4 @@ Trabalhos com norma obrigatória (como ABNT) mantêm a formatação exigida; a o
 
 ## Autor e licença
 
-Autor: JLemosDev. Licença MIT (veja o arquivo `LICENSE`).
+Autor: JLemosDev, jadywellyda. Licença MIT (veja o arquivo `LICENSE`).
