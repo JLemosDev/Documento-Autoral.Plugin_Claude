@@ -1,5 +1,8 @@
 ---
 name: documento-autoral
+license: MIT
+metadata:
+  author: JLemosDev
 description: Use quando o usuário pedir um documento (Word, .docx ou PDF) com visual diferente, fora do convencional, criativo, autoral ou "que não pareça template". Frases gatilho - "documento com visual diferente", "quero algo fora do padrão", "mude o visual", "documento criativo", "capa diferente", "layout ousado", "non-conventional document", "make it look designed".
 ---
 

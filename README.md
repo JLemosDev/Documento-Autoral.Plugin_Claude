@@ -20,3 +20,7 @@ A skill `documento-autoral` entra em ação quando você pede um documento com "
 ## Observação
 
 Trabalhos com norma obrigatória (como ABNT) mantêm a formatação exigida; a ousadia visual fica restrita às partes livres, como capa e destaques.
+
+## Autor e licença
+
+Autor: JLemosDev. Licença MIT (veja o arquivo `LICENSE`).
